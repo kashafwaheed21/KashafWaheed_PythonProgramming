@@ -76,7 +76,7 @@ KashafWaheed_PythonProgramming/
 
 ### 🏠 Main Interface
 
-![Main GUI](screenshots/home.png)
+![Main GUI](screenshots/home2.png)
 
 ---
 
